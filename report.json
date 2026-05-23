@@ -1,0 +1,10 @@
+{
+  "total_students": 18,
+  "country_count": {
+    "Singapore": 8,
+    "Australia": 5,
+    "Malaysia": 5
+  },
+  "completed_count": 10,
+  "completion_rate": 55.6
+}
